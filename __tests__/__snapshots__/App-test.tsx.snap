@@ -1,0 +1,357 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App => Snapshots =>  should render properly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#004053",
+      "flex": 1,
+    }
+  }
+>
+  <RCTSafeAreaView
+    emulateUnlessSupported={true}
+  >
+    <View
+      style={
+        Object {
+          "height": "100%",
+          "justifyContent": "space-between",
+          "padding": 22.5,
+        }
+      }
+    >
+      <View>
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+            }
+          }
+        >
+          <View
+            accessibilityLabel="bar1"
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "#ffffff",
+                "borderRadius": 3,
+                "height": 6,
+                "opacity": 1,
+                "width": 120,
+              }
+            }
+            testID="bar1"
+          />
+          <View
+            accessibilityLabel="bar2"
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "darkgrey",
+                "borderRadius": 3,
+                "height": 6,
+                "opacity": 1,
+                "width": 120,
+              }
+            }
+            testID="bar2"
+          />
+          <View
+            accessibilityLabel="bar3"
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "darkgrey",
+                "borderRadius": 3,
+                "height": 6,
+                "opacity": 1,
+                "width": 120,
+              }
+            }
+            testID="bar3"
+          />
+          <View
+            accessibilityLabel="bar4"
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "darkgrey",
+                "borderRadius": 3,
+                "height": 6,
+                "opacity": 1,
+                "width": 120,
+              }
+            }
+            testID="bar4"
+          />
+          <View
+            accessibilityLabel="bar5"
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "darkgrey",
+                "borderRadius": 3,
+                "height": 6,
+                "opacity": 1,
+                "width": 120,
+              }
+            }
+            testID="bar5"
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginTop": 30,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#ffffff",
+                "fontSize": 19.5,
+                "fontWeight": "bold",
+                "textTransform": "uppercase",
+              }
+            }
+          >
+            Rescue session: Anger & Frustation
+          </Text>
+          <Text
+            allowFontScaling={false}
+            selectable={false}
+            style={
+              Array [
+                Object {
+                  "color": "#ffffff",
+                  "fontSize": 30,
+                },
+                undefined,
+                Object {
+                  "fontFamily": "Ionicons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                Object {},
+              ]
+            }
+          >
+            
+          </Text>
+        </View>
+        <Text
+          style={
+            Object {
+              "color": "#ffffff",
+              "fontSize": 24,
+              "fontWeight": "700",
+              "lineHeight": 36,
+              "marginTop": 45,
+              "textAlign": "left",
+            }
+          }
+        >
+          Pick the level your anger & 
+frustation right now
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "marginTop": -120,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "borderColor": "darkgrey",
+              "borderRadius": 210,
+              "borderStyle": "dashed",
+              "borderWidth": 6,
+              "height": 420,
+              "justifyContent": "center",
+              "width": 420,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "#ffffff",
+                "borderBottomEndRadius": 225,
+                "borderTopEndRadius": 225,
+                "height": 345,
+                "overflow": "hidden",
+                "position": "absolute",
+                "right": 30,
+                "width": 172.5,
+              }
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#364C4D",
+                "borderRadius": 165,
+                "height": 330,
+                "justifyContent": "center",
+                "width": 330,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "cyan",
+                  "borderRadius": 112.5,
+                  "height": 225,
+                  "justifyContent": "center",
+                  "width": 225,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#ffffff",
+                    "fontSize": 66,
+                    "fontWeight": "bold",
+                  }
+                }
+              >
+                0
+              </Text>
+            </View>
+          </View>
+        </View>
+        <RNCSlider
+          disabled={false}
+          enabled={true}
+          inverted={false}
+          maximumTrackTintColor="#ffffff"
+          maximumValue={5}
+          minimumTrackTintColor="cyan"
+          minimumValue={0}
+          onChange={[Function]}
+          onRNCSliderSlidingComplete={null}
+          onRNCSliderSlidingStart={null}
+          onRNCSliderValueChange={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          step={1}
+          style={
+            Array [
+              Object {
+                "height": 40,
+              },
+              Object {
+                "height": 75,
+                "marginTop": 75,
+                "width": "90%",
+              },
+            ]
+          }
+          tapToSeek={false}
+          thumbImage={null}
+          thumbTintColor="cyan"
+          value={0}
+        />
+      </View>
+      <View
+        accessibilityLabel="primaryButton"
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#ffffff",
+            "borderRadius": 33,
+            "height": 66,
+            "justifyContent": "center",
+            "opacity": 1,
+          }
+        }
+        testID="primaryButton"
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#004053",
+                "fontSize": 22.5,
+                "fontWeight": "bold",
+              },
+              undefined,
+            ]
+          }
+        >
+          Next
+        </Text>
+      </View>
+    </View>
+  </RCTSafeAreaView>
+</View>
+`;

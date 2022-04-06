@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PrimaryButton => Snapshots =>  should render properly with props 1`] = `
+<View
+  accessibilityLabel="primaryButton"
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#ffffff",
+      "borderRadius": 33,
+      "height": 66,
+      "justifyContent": "center",
+      "opacity": 1,
+    }
+  }
+  testID="primaryButton"
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#004053",
+          "fontSize": 22.5,
+          "fontWeight": "bold",
+        },
+        undefined,
+      ]
+    }
+  >
+    Next
+  </Text>
+</View>
+`;
+
+exports[`PrimaryButton => Snapshots =>  should render properly without props 1`] = `
+<View
+  accessibilityLabel="primaryButton"
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#ffffff",
+      "borderRadius": 33,
+      "height": 66,
+      "justifyContent": "center",
+      "opacity": 1,
+    }
+  }
+  testID="primaryButton"
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#004053",
+          "fontSize": 22.5,
+          "fontWeight": "bold",
+        },
+        undefined,
+      ]
+    }
+  >
+    
+  </Text>
+</View>
+`;

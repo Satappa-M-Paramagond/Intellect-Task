@@ -1,0 +1,345 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FormHeader => Snapshots =>  should render properly with props 1`] = `
+Array [
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <View
+      accessibilityLabel="bar1"
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#ffffff",
+          "borderRadius": 3,
+          "height": 6,
+          "opacity": 1,
+          "width": 120,
+        }
+      }
+      testID="bar1"
+    />
+    <View
+      accessibilityLabel="bar2"
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#ffffff",
+          "borderRadius": 3,
+          "height": 6,
+          "opacity": 1,
+          "width": 120,
+        }
+      }
+      testID="bar2"
+    />
+    <View
+      accessibilityLabel="bar3"
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "darkgrey",
+          "borderRadius": 3,
+          "height": 6,
+          "opacity": 1,
+          "width": 120,
+        }
+      }
+      testID="bar3"
+    />
+    <View
+      accessibilityLabel="bar4"
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "darkgrey",
+          "borderRadius": 3,
+          "height": 6,
+          "opacity": 1,
+          "width": 120,
+        }
+      }
+      testID="bar4"
+    />
+    <View
+      accessibilityLabel="bar5"
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "darkgrey",
+          "borderRadius": 3,
+          "height": 6,
+          "opacity": 1,
+          "width": 120,
+        }
+      }
+      testID="bar5"
+    />
+  </View>,
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginTop": 30,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontSize": 19.5,
+          "fontWeight": "bold",
+          "textTransform": "uppercase",
+        }
+      }
+    >
+      Rescue session: Anger & Frustation
+    </Text>
+    <Text
+      allowFontScaling={false}
+      selectable={false}
+      style={
+        Array [
+          Object {
+            "color": "#ffffff",
+            "fontSize": 30,
+          },
+          undefined,
+          Object {
+            "fontFamily": "Ionicons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+  </View>,
+]
+`;
+
+exports[`FormHeader => Snapshots =>  should render properly without props 1`] = `
+Array [
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <View
+      accessibilityLabel="bar1"
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#ffffff",
+          "borderRadius": 3,
+          "height": 6,
+          "opacity": 1,
+          "width": 120,
+        }
+      }
+      testID="bar1"
+    />
+    <View
+      accessibilityLabel="bar2"
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "darkgrey",
+          "borderRadius": 3,
+          "height": 6,
+          "opacity": 1,
+          "width": 120,
+        }
+      }
+      testID="bar2"
+    />
+    <View
+      accessibilityLabel="bar3"
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "darkgrey",
+          "borderRadius": 3,
+          "height": 6,
+          "opacity": 1,
+          "width": 120,
+        }
+      }
+      testID="bar3"
+    />
+    <View
+      accessibilityLabel="bar4"
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "darkgrey",
+          "borderRadius": 3,
+          "height": 6,
+          "opacity": 1,
+          "width": 120,
+        }
+      }
+      testID="bar4"
+    />
+    <View
+      accessibilityLabel="bar5"
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "darkgrey",
+          "borderRadius": 3,
+          "height": 6,
+          "opacity": 1,
+          "width": 120,
+        }
+      }
+      testID="bar5"
+    />
+  </View>,
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginTop": 30,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontSize": 19.5,
+          "fontWeight": "bold",
+          "textTransform": "uppercase",
+        }
+      }
+    >
+      Rescue session: Anger & Frustation
+    </Text>
+    <Text
+      allowFontScaling={false}
+      selectable={false}
+      style={
+        Array [
+          Object {
+            "color": "#ffffff",
+            "fontSize": 30,
+          },
+          undefined,
+          Object {
+            "fontFamily": "Ionicons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+  </View>,
+]
+`;
